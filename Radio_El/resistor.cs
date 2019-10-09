@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Radio_El
 {
-    class Resistor
+    class resistor
     {
     }
 }
